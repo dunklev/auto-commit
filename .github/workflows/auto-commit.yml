@@ -35,8 +35,8 @@ jobs:
 
       - name: Setup Git Config
         run: |
-          git config user.email "fauzanhl123@gmail.com"
-          git config user.name "cruzlx"
+          git config user.email "cruzlvoovo@gmail.com"
+          git config user.name "dunklev"
 
       - name: Commit Changes
         run: |
