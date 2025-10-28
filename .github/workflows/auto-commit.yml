@@ -30,8 +30,8 @@ jobs:
         run: |
           current_time=$(date '+%Y-%m-%d %H:%M:%S')
           echo "Updated on $current_time" > TIMESTAMP.txt
-          echo "fauzanhl123@gmail.com" >> TIMESTAMP.txt
-          echo "cruzlx" >> TIMESTAMP.txt
+          echo "cruzlvoovo@gmail.com" >> TIMESTAMP.txt
+          echo "dunklev" >> TIMESTAMP.txt
 
       - name: Setup Git Config
         run: |
